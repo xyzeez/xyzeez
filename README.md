@@ -84,27 +84,6 @@ I'm a passionate information technology student with a keen interest in web prog
 </details>
 
 <details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<div align="left" width="100%">
-<!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/xyzeez/forkify-app"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=xyzeez&repo=forkify-app&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="forkify-app"></a>
-
-<a href="https://github.com/xyzeez/mapty-app"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=xyzeez&repo=mapty-app&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="mapty-app"></a>
-
-<a href="https://github.com/xyzeez/age-calculator-app"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=xyzeez&repo=age-calculator-app&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="age-calculator-app"></a>
-
-<a href="https://github.com/xyzeez/advice-generator-app"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=xyzeez&repo=advice-generator-app&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="advice-generator-app"></a>
-
-<a href="https://github.com/xyzeez/clipboard-landing-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=xyzeez&repo=clipboard-landing-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="clipboard-landing-page"></a>
-
-<a href="https://github.com/xyzeez/sunnyside-agency-landing-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=xyzeez&repo=sunnyside-agency-landing-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="sunnyside-agency-landing-page"></a>
-
-<!-- BLOG-POST-LIST:END -->
-</div>
-</details>
-
-<details>
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
