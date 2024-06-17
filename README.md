@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdul-Azeez</h1>
 
 <p align="center">
-I'm a passionate information technology student with a keen interest in web programming. I'm interested in building web solutions that align with the users' needs.
+I'm a passionate information technology student with a keen interest in web programming. I love building web solutions that align with users' needs.
+</p>
 
 ##
 
 <br>
 
-- 🔭 I’m currently focused on **becoming a skilled software engineer**.
-
 - 🌱 I’m currently diving into **React.js** to broaden my skill set.
-
-- 👨‍💻 Check out my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/xyzeez) for a glimpse of my work!.
-
+- 👨‍💻 Check out my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/xyzeez) for a glimpse of my work!
+- 🔭 I’m currently focused on **becoming a skilled software engineer**.
 - 📫 You can reach me via email at **abdusamiiaa.dev@gmail.com**.
-
 - 👯 I’m open to collaborating on **exciting open-source projects**.
-
 - ⚡ Fun fact: **I'm fluent in Arabic 🌐**
 
 <br>
@@ -24,21 +20,19 @@ I'm a passionate information technology student with a keen interest in web prog
 
 ## 🏆 Goals:
 
-- 🚀 Gain proficiency in developing full-stack applications using **React** and **Node.js**.
-- 🌐 Incorporate web accessibility standards into my projects to ensure inclusivity.
+- 🚀 Gain proficiency in developing full-stack applications using **React.js** and **Node.js**.
 
 ## 📈 Achievements:
 
-- 🎉 completed over 30 projects on Frontend Mentor, sharing my code and insights with others.
-- 🤝 Provided valuable feedback on projects to support the Frontend Mentor community.
-- 🏢 Actively contribute as a core member of the Google Developer Student Clubs at my institute.
+- 🎉 Completed over 30 projects on Frontend Mentor, sharing my code and insights with others.
+- 🏢 Actively contributing as a core member of the Google Developer Student Clubs at my institute.
 
 #
 
 <br>
 <h2 align="center">📊 Github Stats</h2>
 
-<div align = "center">
+<div align="center">
 
 ![Stats Overview](https://raw.githubusercontent.com/xyzeez/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Most Used Languages](https://raw.githubusercontent.com/xyzeez/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -46,24 +40,25 @@ I'm a passionate information technology student with a keen interest in web prog
 </div>
 <br>
 
-<div align = "center">
+<div>
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠 Languages and Tools</h2>
 
-<h3> 🎨 Frontend</h3>
+<h3>🎨 Frontend</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+<h3>♻ Version Control</h3>
 
-<h3>🧰 Backend</h3>
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+
 <br>
-
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 <h3>💻 Software and Tools</h3>
-<br>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp; ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 
 </div>
 
