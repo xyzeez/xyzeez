@@ -16,13 +16,12 @@ I'm a passionate information technology student with a keen interest in web prog
 - ⚡ Fun fact: **I'm fluent in Arabic 🌐**
 
 <br>
-<br>
 
-## 🏆 Goals:
+<h2>🏆 Goals:</h2>
 
 - 🚀 Gain proficiency in developing full-stack applications using **React.js** and **Node.js**.
 
-## 📈 Achievements:
+<h2>📈 Achievements:</h2>
 
 - 🎉 Completed over 30 projects on Frontend Mentor, sharing my code and insights with others.
 - 🏢 Actively contributing as a core member of the Google Developer Student Clubs at my institute.
