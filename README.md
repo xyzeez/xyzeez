@@ -1,30 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abdul-Azeez</h1>
+<h1 align="center">Hi 👋, I'm Abdulazeez</h1>
 
 <p align="center">
-I'm a passionate information technology student with a keen interest in web programming. I love building web solutions that align with users' needs.
+I'm a passionate full-stack developer with expertise in modern technologies. I love building solutions that create meaningful user experiences.
 </p>
 
 ##
 
 <br>
 
-- 🌱 I’m currently diving into **React.js** to broaden my skill set.
+- 🌱 I'm currently exploring **mobile development** with a focus on React Native
 - 👨‍💻 Check out my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/xyzeez) for a glimpse of my work!
-- 🔭 I’m currently focused on **becoming a skilled software engineer**.
-- 📫 You can reach me via email at **abdusamiiaa.dev@gmail.com**.
-- 👯 I’m open to collaborating on **exciting open-source projects**.
+- 🔭 I'm currently focused on **expanding into mobile development while strengthening my full-stack skills**
+- 📫 You can reach me via email at **abdusamiiaa.dev@gmail.com**
+- 👯 I'm open to collaborating on **exciting open-source projects**
 - ⚡ Fun fact: **I'm fluent in Arabic 🌐**
 
 <br>
 
 <h2>🏆 Goals:</h2>
 
-- 🚀 Gain proficiency in developing full-stack applications using **React.js** and **Node.js**.
+- 🚀 Master mobile app development with **React Native**
+- 📱 Build cross-platform applications that provide excellent user experiences
+- 🔄 Continue expanding my knowledge in modern web frameworks and best practices
 
 <h2>📈 Achievements:</h2>
 
-- 🎉 Completed over 30 projects on Frontend Mentor, sharing my code and insights with others.
-- 🏢 Actively contributing as a core member of the Google Developer Student Clubs at my institute.
+- 🎉 Successfully completed numerous projects on Frontend Mentor, sharing code and insights with the community
+- 💻 Developed full-stack applications using React.js, Node.js, and Next.js
+- 🌐 Proficient in both frontend and backend development
 
 <br>
 <br>
@@ -35,7 +38,13 @@ I'm a passionate information technology student with a keen interest in web prog
 
 <h3>🎨 Frontend</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp; ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp; ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+
+<br>
+
+<h3>⚙️ Backend</h3>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 
 <br>
 
