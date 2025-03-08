@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulazeez</h1>
 
 <p align="center">
-I'm a passionate full-stack developer with expertise in modern technologies. I love building solutions that create meaningful user experiences.
+I'm a passionate frontend web developer with expertise in modern technologies. I love building solutions that create meaningful user experiences.
 </p>
 
 ##
